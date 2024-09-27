@@ -1,0 +1,1 @@
+Drum Kit is a simple and interactive website that allows users to play drum sounds by either pressing specific keys on their keyboard or clicking on the drum icons displayed on the webpage. It provides a fun way to experiment with different drum beats and create rhythmic patterns.
